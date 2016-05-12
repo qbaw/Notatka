@@ -1,5 +1,5 @@
 # Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?
-![sdaf](https://github.com/qbaw/strona/blob/master/11.png)
+![sdaf](https://github.com/qbaw/strona/blob/master/11.png)</br>
 Odpowiedzi na to pytanie może dostarczyć tzw. Skala Kardaszewa. Jest to model rozwoju technologicznego cywilizacji żyjących we wszechświecie, stworzony w 1964 roku przez radzieckiego astronautę Nikolaja Kardaszewa. Futurolog wyodrębnił poszczególne stopnie zaawansowania względem wykorzystania przez daną cywilizację dostępnych w kosmosie zasobów energii. Co zabawne radziecki naukowiec w połowie XX wieku uznał, że Ziemia nie kwalifikuje się nawet do najniższego stopnia stworzonej przez siebie skali.
 Ale po kolei…
 * Poziom 0 – to ten na którym znajduje się Ziemia. Wyznacznikiem tego poziomu jest fakt istnienia na planecie inteligentnych istot, które są w stanie wytworzyć cywilizację – rozwinąć pismo, budownictwo, życie miejskie oraz struktury społeczne. Cywilizacja taka potrafi budować monumentalne, aczkolwiek proste technologicznie budowle jak np. piramidy i różnego rodzaju świątynie. W skali Kardaszewa jest to najniższy poziom początkowy.
