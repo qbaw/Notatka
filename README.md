@@ -25,4 +25,27 @@ do najniższego stopnia stworzonej przez siebie skali.Ale po kolei…
 ![](https://github.com/qbaw/strona/blob/master/13.png)
 </br>
 Sam Kardaszew poprzestał na tym etapie, jednak jego kontynuatorzy opracowywali kolejne etapy rozwoju, aż do typu nr 7, w którym „boska cywilizacja” jest w stanie samodzielnie kreować wszechświaty, z których pozyskuje nieograniczoną energię. Sama skala stała się natomiast powszechnie przyjętym modelem, który inspiruje zarówno naukowców – fizyków i futurologów jak również pisarzy sci-fi. Opisy kosmicznych światów bazujące na wizji Kardaszewa możemy znaleźć m. in. u Issaca Asimov, Stephena Baxtera czy Jacka Dukaja (Perfekcyjna niedoskonałość).
+
+##Produkcja energii a skala Kardaszewa (od 1900 roku)
+Rok	|Produkcja energii|	Cząstkowa skala Kardaszewa
+|EJ/rok	|TW	Quad/rok[3]|	Mtoe/rok[4]|
+1900|	 21|	0,67|	  20	     500	0,58
+1970|	190|	6.0|	180	  4500	0,67
+1973|	260|	8.2|	240	  6200	0,69
+1985|	290|	9,2|	270	  6900	0,69
+1989|	320|	10|   	300	  7600	0,70
+1993|	340|	11|   	320	  8100	0,70
+1995|	360|	12|  	340	  8700	0,70
+2000|	420|	13|   	400	10000	0,71
+2001|	420|	13   	400	10000	0,71
+2002|	430|	14   	410	10400	0,71
+2004|	440|	14   	420	10600	0,71
+2010|	510|	16   	480	12100	0,72
+2030
+(prognoza)	680	22   	650	16300	0,73
+
+
+
+
+
 Ironią jest, że Kardaszew stworzył swoją skalę w momencie, gdy na ziemi nie istniały nawet energooszczędne żarówki! Naukowcy natomiast pokusili się nawet o wyliczenie na jakim poziomie może znajdować się cywilizacja ludzka na początku XXI wieku. Stosując matematyczny wzór zaproponowany przez amerykańskiego astronoma Carla Sagana wyliczono, że jesteśmy w przybliżeniu na etapie 0,72, ponieważ wykorzystujemy na razie zaledwie 0,16% całkowitej dostępnej energii dostępnej na Ziemi. Naszym ograniczeniem jest w dalszym ciągu brak kontroli nad naszą planetą, o budowie międzyplanetarnych stacji kosmicznych już nie wspominając.
