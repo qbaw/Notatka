@@ -1,5 +1,7 @@
-<center># Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?</center></br>
-<center>![](https://github.com/qbaw/strona/blob/master/11.png)</center></br>
+:# Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?:
+
+</br>
+![](https://github.com/qbaw/strona/blob/master/11.png)</br>
 
 ```
 Odpowiedzi na to pytanie może dostarczyć tzw. Skala Kardaszewa.
