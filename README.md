@@ -46,6 +46,10 @@ Rok	|Produkcja energii|	Cząstkowa skala Kardaszewa
 
 
 
-
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 Ironią jest, że Kardaszew stworzył swoją skalę w momencie, gdy na ziemi nie istniały nawet energooszczędne żarówki! Naukowcy natomiast pokusili się nawet o wyliczenie na jakim poziomie może znajdować się cywilizacja ludzka na początku XXI wieku. Stosując matematyczny wzór zaproponowany przez amerykańskiego astronoma Carla Sagana wyliczono, że jesteśmy w przybliżeniu na etapie 0,72, ponieważ wykorzystujemy na razie zaledwie 0,16% całkowitej dostępnej energii dostępnej na Ziemi. Naszym ograniczeniem jest w dalszym ciągu brak kontroli nad naszą planetą, o budowie międzyplanetarnych stacji kosmicznych już nie wspominając.
