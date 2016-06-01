@@ -1,4 +1,4 @@
-#Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?
+##Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?
 
 </br>
 ![](https://github.com/qbaw/strona/blob/master/11.png)
